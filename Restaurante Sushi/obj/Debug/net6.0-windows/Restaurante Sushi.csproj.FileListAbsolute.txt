@@ -1,0 +1,17 @@
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\bin\Debug\net6.0-windows\Restaurante Sushi.exe
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\bin\Debug\net6.0-windows\Restaurante Sushi.deps.json
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\bin\Debug\net6.0-windows\Restaurante Sushi.runtimeconfig.json
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\bin\Debug\net6.0-windows\Restaurante Sushi.dll
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\bin\Debug\net6.0-windows\Restaurante Sushi.pdb
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.csproj.AssemblyReference.cache
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante_Sushi.Form1.resources
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.csproj.GenerateResource.cache
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.AssemblyInfoInputs.cache
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.AssemblyInfo.cs
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.csproj.CoreCompileInputs.cache
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.dll
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\refint\Restaurante Sushi.dll
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.pdb
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\Restaurante Sushi.genruntimeconfig.cache
+C:\Users\orlan\source\repos\Restaurante Sushi\Restaurante Sushi\obj\Debug\net6.0-windows\ref\Restaurante Sushi.dll

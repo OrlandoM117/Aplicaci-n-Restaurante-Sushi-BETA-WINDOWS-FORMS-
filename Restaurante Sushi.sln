@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurante Sushi", "Restaurante Sushi\Restaurante Sushi.csproj", "{A1A00AFA-1423-4518-9ABB-600C1C929ADA}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "apphost", "..\LeerJson TABLA\LeerJson TABLA\obj\Debug\net6.0-windows\apphost.exe", "{6CFA56EA-DFDD-40A2-B3B8-A3CC18E0DE9E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\orlan\source\repos\LeerJson TABLA\LeerJson TABLA\obj\Debug\net6.0-windows\apphost.exe
+		RemoteMachine = LAPTOP-F1N5Q8OP
+		StartingDirectory = C:\Users\orlan\source\repos\LeerJson TABLA\LeerJson TABLA\obj\Debug\net6.0-windows
+		Environment = Predeterminado
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Debug|x64.Build.0 = Debug|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Release|x64.ActiveCfg = Release|Any CPU
+		{A1A00AFA-1423-4518-9ABB-600C1C929ADA}.Release|x64.Build.0 = Release|Any CPU
+		{6CFA56EA-DFDD-40A2-B3B8-A3CC18E0DE9E}.Debug|Any CPU.ActiveCfg = Release|x64
+		{6CFA56EA-DFDD-40A2-B3B8-A3CC18E0DE9E}.Debug|x64.ActiveCfg = Release|x64
+		{6CFA56EA-DFDD-40A2-B3B8-A3CC18E0DE9E}.Release|Any CPU.ActiveCfg = Release|x64
+		{6CFA56EA-DFDD-40A2-B3B8-A3CC18E0DE9E}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF46561-991A-48BE-94A2-1677215FF476}
+	EndGlobalSection
+EndGlobal
